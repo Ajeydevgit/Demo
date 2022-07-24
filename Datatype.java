@@ -4,6 +4,7 @@ public class Datatype {
 	{
 		
 		int i=100;
+	
 		
 		System.out.println("integer value is "+ i);
 		
